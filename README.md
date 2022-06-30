@@ -4,7 +4,7 @@
 >   <li>Experienced in building teams from zero. On-site and/or remote with sharp resource management</li>
 >   <li>Systems thinker and First Principles</li>
 >   <li>Evidence based and data oriented</li>
->   <li>Strong interest in InfoSec</li>
+>   <li>Interest in InfoSec and Networking</li>
 > </ul>
 > </b>
 
