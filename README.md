@@ -13,14 +13,14 @@
 
 
 ## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)\
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Scikit](https://img.shields.io/badge/-ScikitLearn-555?style=flat&logo=scikit-learn)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-555?style=flat&logo=opencv)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-555?style=flat&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
 ![MicroPython](https://img.shields.io/badge/-MicroPython-555?style=flat&logo=micropython)&nbsp;
 
-![R](https://img.shields.io/badge/-R-555?style=flat&logo=R)\
+![R](https://img.shields.io/badge/-R-555?style=flat&logo=R)&nbsp;
 ![ranger](https://img.shields.io/badge/-ranger-555?style=flat)&nbsp;
 ![snow](https://img.shields.io/badge/-snow-555?style=flat)&nbsp;
 ![quantmod](https://img.shields.io/badge/-quantmod-555?style=flat)&nbsp;
