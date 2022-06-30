@@ -1,12 +1,12 @@
-<b>Mechanical Engineer by training (complex problems are fun!). Strong technical skills with the ability to learn fast and hit the ground running. Highly motivated person who values time above all else.
-<ul>
-  <li>Cross Domain ability to fit different parts/people/skills together (e.g. SCADA/ICS + Machine learning + Networking)</li>
-  <li>Experienced in building teams from zero. On-site and/or remote with sharp resource management</li>
-  <li>Systems thinker and First Principles</li>
-  <li>Evidence based and data oriented</li>
-  <li>Strong interest in InfoSec</li>
-</ul>
-</b>
+> <b>Mechanical Engineer by training (complex problems are fun!). Strong technical skills with the ability to learn fast and hit the ground running. Highly motivated person who values time above all else.
+> <ul>
+>   <li>Cross Domain ability to fit different parts/people/skills together (e.g. SCADA/ICS + Machine learning + Networking)</li>
+>   <li>Experienced in building teams from zero. On-site and/or remote with sharp resource management</li>
+>   <li>Systems thinker and First Principles</li>
+>   <li>Evidence based and data oriented</li>
+>   <li>Strong interest in InfoSec</li>
+> </ul>
+> </b>
 
 <br>
 
