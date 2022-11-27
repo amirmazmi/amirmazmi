@@ -1,8 +1,6 @@
-<span style="color:blue">
-  
 > <b>Mechanical Engineer by training (complex problems are fun!). Strong technical skills with the ability to learn fast and hit the ground running. Highly motivated person who values time above all else.
 > <ul>
->   <li>Cross Domain ability to fit different parts/people/skills together (e.g. SCADA/ICS + Machine learning + Networking)</li>
+>   <li>Cross domain ability to fit different parts/people/skills together (e.g. SCADA/ICS + Machine learning + Networking)</li>
 >   <li>Experienced in building teams from zero. On-site and/or remote with sharp resource management</li>
 >   <li>Systems thinker and First Principles</li>
 >   <li>Evidence based and data oriented</li>
@@ -14,10 +12,24 @@
 >         </ul>  
 > </ul>
 > </b>
+><br>
+>🔭 I’m currently working on:
+>   <ul>
+>     <li>Certificate in Quantitative Finance (CQF)</li>
+>     <li>Home automation - Tasmota / Home Assistant / Custom ESP32 programs</li>
+>   </ul>
+>
+><br> 🤔 I’m looking for help with electronics and hardware for an AC compressor spray project 
+> 
+><br> 📫 Reach me at https://linkedin.com/in/amirmazmi
+>
+ 
+
+
+
 
 <br>
-
-
+    
 
 ## 🛠️ Tech
 ![R](https://img.shields.io/badge/-R-555?style=flat&logo=R)&nbsp;
@@ -70,5 +82,5 @@ Icons - https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 - ⚡ Fun fact: ...
 -->
 
- </span>
+
   
