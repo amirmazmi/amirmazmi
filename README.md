@@ -1,3 +1,5 @@
+<span style="color:blue">
+  
 > <b>Mechanical Engineer by training (complex problems are fun!). Strong technical skills with the ability to learn fast and hit the ground running. Highly motivated person who values time above all else.
 > <ul>
 >   <li>Cross Domain ability to fit different parts/people/skills together (e.g. SCADA/ICS + Machine learning + Networking)</li>
@@ -67,3 +69,6 @@ Icons - https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ </span>
+  
