@@ -1,6 +1,7 @@
-> <b>Mechanical Engineer by training (complex problems are fun!). Strong technical skills with the ability to learn fast and hit the ground running. Highly motivated person who values time above all else.
+> <b>Mechanical Engineer by training (complex problems are fun!). Certificate in Quantitative Finance (CQF Jan23).  
+> Strong technical skills with the ability to learn fast and hit the ground running. Highly motivated person who values time above all else.
 > <ul>
->   <li>Cross domain ability to fit different parts/people/skills together (e.g. SCADA/ICS + Machine learning + Networking)</li>
+>   <li>Cross-domain ability to fit different parts/people/skills together (e.g. SCADA/ICS + Machine learning/Optimization + Networking)</li>
 >   <li>Experienced in building teams from zero. On-site and/or remote with sharp resource management</li>
 >   <li>Systems thinker and First Principles</li>
 >   <li>Evidence based and data oriented</li>
@@ -9,17 +10,19 @@
 >           <li>InfoSec</li>
 >           <li>Networking - talk frames to me!</li>
 >           <li>Algorithmic Trading (i &#10084 volatility)</li>
+>           <li>Home automation - VPN + wifi control, wifi cameras</li>
+>           <li>Home server - VPN, Nextcloud, Pi-Hole, Portainer</li>
 >         </ul>  
 > </ul>
 > </b>
-><br>
->🔭 I’m currently working on:
+> <br>
+> 🔭 I’m currently working on:
 >   <ul>
->     <li>Certificate in Quantitative Finance (CQF)</li>
+>     <li>Crypto arbitrage/market-making</li>
 >     <li>Home automation - Tasmota / Home Assistant / Custom ESP32 programs</li>
 >   </ul>
 >
-><br> 🤔 I’m looking for help with electronics and hardware for an AC compressor spray project 
+><br> 🤔 Shout out if you are interested in helping with electronics and hardware for an AC compressor spray project 
 > 
 ><br> 📫 Reach me at https://linkedin.com/in/amirmazmi
 >
