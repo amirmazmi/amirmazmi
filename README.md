@@ -50,7 +50,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
 ![Multiprocessing](https://img.shields.io/badge/-multiprocessing-555?style=flat)&nbsp;\
 ![MicroPython](https://img.shields.io/badge/-MicroPython-555?style=flat&logo=micropython)&nbsp;\
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-555?style=flat&logo=amazonaws)&nbsp;
